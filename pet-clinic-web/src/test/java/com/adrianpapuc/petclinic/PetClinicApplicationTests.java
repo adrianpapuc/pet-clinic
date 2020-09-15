@@ -1,4 +1,4 @@
-package petclinic;
+package com.adrianpapuc.petclinic;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
