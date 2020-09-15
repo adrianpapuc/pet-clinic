@@ -20,7 +20,9 @@
     <description>Pet clinic spring application</description>
 
     <properties>
+
         <java.version>11</java.version>
+
     </properties>
     <build>
         <plugins>
