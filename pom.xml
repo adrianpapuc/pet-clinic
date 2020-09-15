@@ -21,8 +21,6 @@
 
     <properties>
         <java.version>11</java.version>
-        <start-class>com.adrianpapuc.petclinic.PetClinicApplication</start-class>
-
     </properties>
     <build>
         <plugins>
