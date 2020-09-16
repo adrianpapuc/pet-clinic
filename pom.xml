@@ -15,7 +15,7 @@
 
     <groupId>com.adrianpapuc</groupId>
     <artifactId>pet-clinic</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.2-SNAPSHOT</version>
     <name>pet-clinic</name>
     <description>Pet clinic spring application</description>
 
@@ -43,7 +43,7 @@
     </build>
     <scm>
         <developerConnection>scm:git:https://github.com/adrianpapuc/pet-clinic.git</developerConnection>
-      <tag>pet-clinic-0.0.1</tag>
+      <tag>HEAD</tag>
   </scm>
 
 </project>
