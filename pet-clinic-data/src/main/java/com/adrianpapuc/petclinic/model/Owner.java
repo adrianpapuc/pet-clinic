@@ -4,7 +4,34 @@ import java.util.Set;
 
 public class Owner extends Person {
 
+    private String adress;
+    private String city;
+    private String tehephone;
     private Set<Pet> pets;
+
+    public String getAdress() {
+        return adress;
+    }
+
+    public void setAdress(String adress) {
+        this.adress = adress;
+    }
+
+    public String getCity() {
+        return city;
+    }
+
+    public void setCity(String city) {
+        this.city = city;
+    }
+
+    public String getTehephone() {
+        return tehephone;
+    }
+
+    public void setTehephone(String tehephone) {
+        this.tehephone = tehephone;
+    }
 
     public Set<Pet> getPets() {
         return pets;
