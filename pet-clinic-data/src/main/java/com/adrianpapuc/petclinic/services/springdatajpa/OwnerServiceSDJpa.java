@@ -40,8 +40,8 @@ public class OwnerServiceSDJpa implements OwnerService {
     }
 
     @Override
-    public Owner findById(Long id) {
-        return ownerRepository.findById(id).orElse(null);
+    public Owner findById(Long aLong) {
+        return ownerRepository.findById(aLong).orElse(null);
     }
 
     @Override
